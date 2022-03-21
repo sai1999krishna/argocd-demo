@@ -1,0 +1,7 @@
+target_mapping:
+  "yamls":
+    - "master"
+    - "node"
+    - "controlplane"
+    - "etcd"
+    - "policies"
